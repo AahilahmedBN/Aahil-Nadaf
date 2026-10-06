@@ -4,7 +4,7 @@
 
 I build AI-powered automation systems that turn repetitive business processes into autonomous workflows.
 
-My work focuses on **AI agents, workflow automation, APIs, and business systems**.
+My work focuses on AI agents, workflow automation, APIs, and business systems.
 
 ## What I Build
 
@@ -35,7 +35,7 @@ AI-powered revenue intake system automating lead qualification, scoring, routing
 
 **Stack:** Google Apps Script · Google Sheets · n8n · Looker Studio
 
-[View Project →](https://github.com/AahilahmedBN/TRIP-Revenue-Intake-Protocol-Revenue-Control-Infrastructure)
+[View Project →](https://github.com/AahilahmedBN/TRIP-Revenue-Intake-Protocol-Revenue-Control-Infrastructure-)
 
 ---
 
@@ -45,7 +45,7 @@ End-to-end workflow automation for lead capture, follow-ups, appointment schedul
 
 **Stack:** n8n · Google Sheets · Google Forms · Conditional Logic
 
-[View Project →](https://github.com/AahilahmedBN/AI-Workflow-Automation-System-for-Med-Spa-Operations-n8n)
+[View Project →](https://github.com/AahilahmedBN/AI-Workflow-Automation-System-for-Med-Spa-Operations-n8n-)
 
 ## Tech Stack
 
@@ -53,7 +53,7 @@ End-to-end workflow automation for lead capture, follow-ups, appointment schedul
 
 ## Resume
 
-My resume: [Aahil Ahmed - Resume](./Aahilahmed_Resume..pdf)
+[View / Download Resume →](./Aahilahmed_Resume..pdf)
 
 ## Contact
 
