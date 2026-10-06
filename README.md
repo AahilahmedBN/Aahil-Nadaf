@@ -53,7 +53,7 @@ End-to-end workflow automation for lead capture, follow-ups, appointment schedul
 
 ## Resume
 
-My resume: [Aahil Ahmed — Resume](./Aahilahmed_Resume.pdf)
+My resume: [Aahil Ahmed - Resume](./Aahilahmed_Resume.pdf)
 
 ## Contact
 
